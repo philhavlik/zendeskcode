@@ -1,0 +1,108 @@
+<!------------------------------------------------------------------
+Categories!
+------------------------------------------------------------------->
+<div class ="category_left">
+  <!--Begin Customized Category List. Customization is required for graphics. Standard Zd Category List component = no graphics.-->
+  <ul class="category-list">
+    <li><a href="https://policystat.zendesk.com/hc/en-us/categories/200428305">
+      <img src="//p4.zdassets.com/hc/theme_assets/19931/200118989/folded-map6.png" height ="70px"><span>Initial Site Set-Up</a></span></li>           
+    <li><a href="https://policystat.zendesk.com/hc/en-us/categories/200384615"><img src= "//p4.zdassets.com/hc/theme_assets/19931/200118989/PolicyStat_blueGlassOnly_noBackground2.png" height="70px"><span>PolicyStat 101</a></span></li>
+      <li><a href="https://policystat.zendesk.com/hc/en-us/categories/200411529"><img src="//p4.zdassets.com/hc/theme_assets/19931/200118989/awCollaborate5.png" height ="70px"><span>Approve, Collaborate, and Acknowledge</a></span></li>
+      <li><a href="https://policystat.zendesk.com/hc/en-us/categories/200370619"><img src="//p4.zdassets.com/hc/theme_assets/19931/200118989/createNewEditPencil4.png" height ="70px"><span>Create/Edit Policies Help</a></span></li>
+
+        <li><a href="https://policystat.zendesk.com/hc/en-us/categories/200370629"><img src="//p4.zdassets.com/hc/theme_assets/19931/200118989/siteAdmin1.png" width ="80px"><span>Site Administrator Help</a></span></li>
+   </ul>       
+</div>
+          
+<!------------------------------------------------------------------
+Contact Us
+------------------------------------------------------------------->
+<div class="contactUs">
+  <h1>Contact Support</h1>
+  <p><b>Support Hours</b> M-F 8-5 EST<br/><b>Call</b> (317)644-1296 | <i>Press 2</i><br/><b>Email</b><a href="mailto:support@policystat.com"> support@policystat.com</a><br/><b>New Ticket </b><a href="/hc/en-us/requests/new">Submit a request</a><br/>
+  <a href="https://twitter.com/intent/tweet?screen_name=PolicyStatHelp" class="twitter-mention-button" data-related="PolicyStatHelp">Tweet to @PolicyStatHelp</a></p>
+</div>
+  
+<!------------------------------------------------------------------
+Webinar button link
+------------------------------------------------------------------->
+<div class="webinar">
+  <h1>Upcoming Webinars</h1>
+  <a href="https://policystat.zendesk.com/hc/en-us/articles/205059485"><img src="//p4.zdassets.com/hc/theme_assets/19931/200118989/webinarInfo7.png
+    "width="155px" ><span style="color:#133672;font-weight:bold;font-size: 15px;display:inline-block;text-align:center;line-height: 105%">Click for Information and Registration</span></a>
+</div>
+  
+<!------------------------------------------------------------------
+Announcements 
+------------------------------------------------------------------->
+<div class="announcements">
+  <h1>Announcements</h1>
+  <a href="https://policystat.zendesk.com/hc/en-us/categories/200384525"><img src="//p4.zdassets.com/hc/theme_assets/19931/200118989/announcementMic5.png
+    "width="105px" ><span style="color:#133672;font-weight:bold;font-size: 15px;display:inline-block;text-align:center;line-height: 105%">What's New from PolicyStat</span></a>
+</div>
+  
+  <!------------------------------------------------------------------
+User Community
+------------------------------------------------------------------->
+<div class="communityHelp">
+  <h1>User Community</h1>
+  <a href="/hc/communities/public/topics/"><img src="//p4.zdassets.com/hc/theme_assets/19931/200118989/Community8.png
+    "><span style="color:#133672;font-weight:bold;font-size: 15px;display:inline-block;text-align:center;line-height: 105%">Ask the User Community</span></a>
+    </div>
+
+<!------------------------------------------------------------------
+Satisfied Customers / Application Uptime
+------------------------------------------------------------------->
+<!-- This code lives at: https://gist.github.com/winhamwr/5886065 Make all edits there, first -->
+<div class="satisfaction">
+  <h1><span color="#3965BO">What do clients say about PolicyStat Customer Support?</span></h1>
+  <div id="zendesk-satisfaction-results"></div>
+        <p>*Overall goodness based on the last 100 satisfaction ratings.</p>
+  <a href="/hc/en-us/requests/new"><img src="//p4.zdassets.com/hc/theme_assets/19931/200118989/helpTicketButton.png"></a>
+  </div>
+  
+<div class="uptime">
+<style type="text/css" media="screen, projection">
+  @import url(https://policystat.zendesk.com/stylesheets/public_satisfaction.css);
+  .highlighted { color: #133672; }
+  .uptime-percentage {
+    font-weight: bold;
+    font-size: large;
+  }
+</style>
+<h1 class="highlighted">Application Uptime</h1>
+  <table id="uptime">
+  <tbody>
+    <tr>
+    <td>2011-<br/>2013</td>
+    <td><p><span class="uptime-percentage">99.986%</span> <br/>Downtime: 03:48</p></td>
+    </tr>
+    <tr>
+    <td>2014</td>
+    <td><p><span class="uptime-percentage">99.999%</span> <br/>Downtime: 00:01</p></p></td>
+    </tr>
+    <tr>
+    <td>Through June 1, 2015</td>
+    <td>
+      <p><span class="uptime-percentage">100.00%</span> <br/>Downtime: Zilch</p>
+      </td>		
+      </tr>
+    </tbody>
+</table>
+ 
+<script type="text/javascript" src="https://policystat.zendesk.com/satisfaction.js"></script>
+<script type="text/javascript">
+    if (typeof(Satisfaction) !== "undefined") {
+        Satisfaction.show({
+            strings: {
+                goodRatings:      "Said we're good",
+                badRatings:       "Weren't so sure",
+                score:            "Overall goodness*",
+  							zendeskPlug:   		"Powered by <a href='http://www.zendesk.com/'>Zendesk</a>"
+            
+  },
+            element: "zendesk-satisfaction-results"
+        });
+    }
+</script>
+</div>
